@@ -1,8 +1,4 @@
-## Relvel Facebook clone || Back-End
-
-
-## Getting Started
-Follow these instructions to set up the project locally.
+## Relevel Facebook clone || Back-End
 
 ### Prerequisites
 * npm
